@@ -1,4 +1,6 @@
+# Table of contents
 
+* [Introduction](README.md)
 * [The Big Picture](the-big-picture/README.md)
   * [What is Perspectives?](the-big-picture/what-is-perspectives.md)
   * [The Perspectives Story](the-big-picture/the-perspectives-story/README.md)
@@ -8,3 +10,4 @@
 * [Planning](planning.md)
 * [Administration](administration.md)
 * [Program](program.md)
+

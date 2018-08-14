@@ -8,28 +8,28 @@ So, he put together a course called the “Summer Institute of International Stu
 
 {% tabs %}
 {% tab title="Discussion Activity" %}
-#### Growth Chart \(Workbook Pg 6 \[SS1\] \)
+### Growth Chart \(Workbook Pg 6 \[SS1\] \)
 
 Turn to the Growth Chart in the Workbook.
 
 * As you listen to the Perspectives Story take note of how the program grew at the various stages of development.
 * Write down in your workbook anything that surprised you or you found noteworthy.
 
-#### Debrief
+### Debrief
 
 * What surprises you?
 * How does understanding the history of the program help you define and articulate the value of Perspectives?
 
-#### Application
+### Application
 
-The history presentation is on the Perspectives Website.  It is helpful to show to your CT and discuss so that they are prepared to answer questions about how and why Perspectives began.
+The history presentation is on the Perspectives Website. It is helpful to show to your CT and discuss so that they are prepared to answer questions about how and why Perspectives began.
 {% endtab %}
 
 {% tab title="Trainers" %}
 {% hint style="info" %}
 You can use the History PPT located in Trainer Resources or you can talk through bullet points below to tell the PSP story.
 
-The video is found on About PSP tab in the History and Vision section. 
+The video is found on About PSP tab in the History and Vision section.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

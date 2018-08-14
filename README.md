@@ -8,19 +8,3 @@ description: >-
 
 This is the first step to becoming a coordinator.
 
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
